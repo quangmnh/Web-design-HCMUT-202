@@ -1,6 +1,6 @@
 # About
 
-Simple web for company advertising 
+Simple web (or complex?? lol) for company advertising 
 
 # Content
 
