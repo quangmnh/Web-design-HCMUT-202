@@ -1,2 +1,3 @@
-# Web-design-HCMUT-202
-Simple web for advertising 
+# About
+
+Simple web for company advertising 
