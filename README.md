@@ -10,7 +10,7 @@ Sample layouts, for reference.
 
 >Mockup/MockupAndSuggestion.pdf
 
-Suggestion on layout and effects. Feel free to do as you please/ cahnge it completely if nesssary.
+Suggestion on layout and effects. Feel free to do as you please/ change it completely if nesssary.
 
 # Plan
 
