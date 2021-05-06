@@ -1,0 +1,21 @@
+video {
+    width: 100%;
+    height: auto;
+}
+
+.title_font{
+    color:#fed136;
+    font-size: 2rem;
+}
+
+.header_font{
+    color:#fed136;
+}
+
+.date{
+    color: #757575;
+}
+
+.size{
+    font-size: 1.25rem;
+}
