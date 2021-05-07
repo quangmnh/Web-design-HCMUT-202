@@ -3,19 +3,14 @@
     height: 400px;
 }
 
-.title_font{
-    color:#fed136;
-    font-size: 2rem;
+.title_font {
+    color: #fed136;
 }
 
-.header_font{
-    color:#fed136;
+.header_font {
+    color: #fed136;
 }
 
-.date{
+.date {
     color: #757575;
-}
-
-.size{
-    font-size: 1.25rem;
 }

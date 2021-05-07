@@ -4,17 +4,17 @@
     object-fit: contain;
 }
 
-.service_font{
-    font-size: 0.8rem;
+.service_font {
+    font-size: 0.8em;
     color: black;
 }
 
-.service_font:hover{
+.service_font:hover {
     text-decoration: none;
     color: whitesmoke;
     background-image: linear-gradient(to bottom, #f1f1f2, #bcbabe);
 }
 
-.service_title{
-    font-size: 1.25rem;
+.service_title {
+    font-size: 1.25em;
 }
